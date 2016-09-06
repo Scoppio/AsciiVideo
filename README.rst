@@ -2,9 +2,10 @@
 
 **WHAT IS IT ALL ABOUT?!**
 It simply creates an AsciiArt video out of a video (preferably MP4)
+
 .. image:: Frame/~temp.png
 
-.. image:: Frame/~frame.png
+.. image:: Frame/frame_ascii.png
 
 
 **DEPENDENCIES:** This application use:

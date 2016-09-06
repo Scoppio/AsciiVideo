@@ -26,7 +26,7 @@ def textSize(text, fontFace, fontScale, thickness):
     return width, height, ymin
 
 ap = argparse.ArgumentParser()
-ap.add_argument("-i", "--input", required=False, default="",
+ap.add_argument("-i", "--input", required=True, default="",
     help="input video")
 ap.add_argument("-o", "--output", required=False, default="output1.mp4",
     help="output file mp4")
